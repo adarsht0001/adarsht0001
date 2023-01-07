@@ -4,7 +4,7 @@
 
 <h1>Hi 👋, I'm Adarsh T</h1>
 <h3>A passionate Self Learned MERN Stack Developer from Kerala,India</h3>
-<img src="https://komarev.com/ghpvc/?username=adarsht0001&style=for-the-badge" alt="adarsht0001"/>
+<img src="https://komarev.com/ghpvc/?username=adarsht0001&style=for-the-badge&label=Visitors" alt="adarsht0001"/>
 
 </div>
 
