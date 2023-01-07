@@ -8,9 +8,6 @@
 
 </div>
 
-<!-- ![](https://komarev.com/ghpvc/?username=adarsht0001e&color=green) -->
-![](https://komarev.com/ghpvc/?username=adarsht0001&style=for-the-badge)
-
 <!--
 
 Here are some ideas to get you started:
