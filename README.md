@@ -5,17 +5,14 @@
 <h3>A passionate Self Learned MERN Stack Developer from Kerala,India</h3>
 <img src="https://komarev.com/ghpvc/?username=adarsht0001&style=for-the-badge&label=Visitors" alt="adarsht0001"/>
 </div>
-<div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+<div>
+<h3>💫 About Me:</h3>
+
+- 🌱 I’m currently learning **React js**
+- 📫 How to reach me **adarsht00001@gmail.com**
+- 💬 Ask me about **MONGODB,EXPRESS,REACT,NODEJS**
 </div>
+<hr />
 
 <!--
 
