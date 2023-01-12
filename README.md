@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **React js**
 - 📫 How to reach me **adarsht00001@gmail.com**
 - 💬 Ask me about **MONGODB,EXPRESS,REACT,NODEJS**
-- 👯 I’m looking to collaborate on **REACT,NODEJS<JAVASCRIPT**
+- 👯 I’m looking to collaborate on **REACT,NODEJS,JAVASCRIPT**
 </div>
 <hr />
 
