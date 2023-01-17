@@ -16,7 +16,7 @@
 </div>
 <hr />
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=450&lines=Node+Js;Express;Mongodb;React" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=450&lines=Node+Js;Express;MongoDB;React" alt="Typing SVG" /></a>
 </div>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
