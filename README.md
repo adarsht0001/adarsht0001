@@ -12,8 +12,12 @@
 - 📫 How to reach me **adarsht00001@gmail.com**
 - 💬 Ask me about **MONGODB,EXPRESS,REACT,NODEJS**
 - 👯 I’m looking to collaborate on **REACT,NODEJS,JAVASCRIPT**
+
 </div>
 <hr />
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=450&lines=Node+Js;Express;Mongodb;React" alt="Typing SVG" /></a>
+</div>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -25,17 +29,3 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-<!--![wave](https://user-images.githubusercontent.com/111223900/212957409-9481f82e-c13e-44af-815c-38835db85311.gif)
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
