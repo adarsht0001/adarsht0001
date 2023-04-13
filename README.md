@@ -47,7 +47,7 @@
 <a target="_blank"><img alt="Postman" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white&style=for-the-badge"/></a>
 </p>
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; align-items:center">
     <img src="https://github-readme-stats.vercel.app/api?username=adarsht0001&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="margin-right: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsht0001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsht0001&theme=dark&hide_border=false" style="margin-right: 10px;">
