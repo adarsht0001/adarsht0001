@@ -16,6 +16,7 @@
 - 💬 &nbsp; Ask me about **MONGODB,EXPRESS,REACT,NODEJS**
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/adarsh-t-629bba255/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/13kuGF-tqjhx1jwzn35a5fufgnxDd_0iw/view?usp=sharing)
+- 👯 I’m looking to collaborate on **REACT,NODEJS,JAVASCRIPT**
 
 <br>
 
