@@ -44,6 +44,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,materialui,redux" />
   </a>
 </p>
+
 ## 💻 Back End And Data Base:
 
 <p align="center">
@@ -51,6 +52,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,express,ts,nextjs,mongodb,dynamodb,postgres,firebase,redis" />
   </a>
 </p>
+
 ## 💻 Deployment and Tools:
 
 <p align="center">
