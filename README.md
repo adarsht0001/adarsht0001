@@ -2,8 +2,7 @@
 
 <div align="center">
 <h1>Hi <img src="https://user-images.githubusercontent.com/111223900/212957409-9481f82e-c13e-44af-815c-38835db85311.gif" width="30px" height="30px" /> ,I'm Adarsh</h1>
-
-<h3>A passionate Self Taught MERN Stack Developer from Kerala,India</h3>
+  
 <img src="https://komarev.com/ghpvc/?username=adarsht0001&style=for-the-badge&label=Visitors" alt="adarsht0001"/>
 </div>
 
