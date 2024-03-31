@@ -25,7 +25,7 @@
 
 
 <!--- About me --->
-## <img src = "https://raw.githubusercontent.com/adarsht0001/adarsht0001/main/images/user.gif" width = 6.5%> About me
+## <img src = "https://raw.githubusercontent.com/adarsht0001/adarsht0001/main/images/aboutme.gif" width = 6.5%> About me
 
 ```js
 /**
@@ -50,7 +50,7 @@
 
 
 <!--- Tools --->
-## <img src = "https://raw.githubusercontent.com/adarsht0001/adarsht0001/main/images/user.gif" width = 6.5%> Tools
+## <img src = "https://raw.githubusercontent.com/adarsht0001/adarsht0001/main/images/tools.gif" width = 6.5%> Tools
 
 <div>
   <p style="display: inline-block;" align="center">
@@ -58,38 +58,38 @@
       <kbd>Programming Languages</kbd>
       <br>
       <br>
-      <img width="30px" alt="python" title="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-      <img width="30px" alt="Java Script" title="Java Script" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
-      <img width="30px" alt="Go" title="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" /> 
+      <img width="30px" alt="Java Script" title="Java Script" src="https://skillicons.dev/icons?i=js" /> 
+      <img width="30px" alt="python" title="python" src="https://skillicons.dev/icons?i=python" /> 
+      <img width="30px" alt="Go" title="Go" src="https://skillicons.dev/icons?i=go" /> 
     </kbd>
     <kbd>
       <kbd>Back-end</kbd>
       <br>
       <br>
-      <img width="30px" alt="Type Script" title="Type Script" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> 
-      <img width="30px" alt="node js" title="node js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-      <img width="30px" alt="express js" title="express js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
-      <img width="30px" alt="Go" title="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+      <img width="30px" alt="Type Script" title="Type Script" src="https://skillicons.dev/icons?i=ts" /> 
+      <img width="30px" alt="node js" title="node js" src="https://skillicons.dev/icons?i=nodejs" />
+      <img width="30px" alt="express js" title="express js" src="https://skillicons.dev/icons?i=express" />
+      <img width="30px" alt="Go" title="Go" src="https://skillicons.dev/icons?i=go" />
     </kbd>
     <kbd>
       <kbd>Front-end</kbd>
       <br>
       <br>
-      <img width="30px" alt="html5" title="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-      <img width="30px" alt="css3" title="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
-      <img width="30px" alt="bootstrap" title="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" /> 
-      <img width="30px" alt="react" title="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-      <img width="30px" alt="tailwind" title="tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />          
+      <img width="30px" alt="html5" title="html5" src="https://skillicons.dev/icons?i=html" /> 
+      <img width="30px" alt="css3" title="css3" src="https://skillicons.dev/icons?i=css" /> 
+      <img width="30px" alt="bootstrap" title="bootstrap" src="https://skillicons.dev/icons?i=bootstrap" /> 
+      <img width="30px" alt="react" title="react" src="https://skillicons.dev/icons?i=react" />
+      <img width="30px" alt="tailwind" title="tailwind" src="https://skillicons.dev/icons?i=tailwind" />          
     </kbd>
     <kbd>
       <kbd>Database</kbd>
       <br>
       <br>
-      <img width="30px" alt="mysql" title="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-      <img width="30px" alt="postgresql" title="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-      <img width="30px" alt="mongodb" title="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-      <img width="30px" alt="redis" title="redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-      <img width="30px" alt="firebase" title="firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg"/>
+      <img width="30px" alt="mysql" title="mysql" src="https://skillicons.dev/icons?i=mysql" />
+      <img width="30px" alt="postgresql" title="postgresql" src="https://skillicons.dev/icons?i=postgres" />
+      <img width="30px" alt="mongodb" title="mongodb" src="https://skillicons.dev/icons?i=mongodb" />
+      <img width="30px" alt="redis" title="redis" src="https://skillicons.dev/icons?i=redis" />
+      <img width="30px" alt="firebase" title="firebase" src="https://skillicons.dev/icons?i=firebase"/>
     </kbd>
     <br>
     <br>
@@ -97,26 +97,28 @@
       <kbd>Devops and Deployment</kbd>
       <br>
       <br>
-      <img width="30px" alt="aws" title="aws" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-      <img width="30px" alt="heroku" title="heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
-      <img width="30px" alt="git" title="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-      <img width="30px" alt="docker" title="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-      <img width="30px" alt="github actions" title="github  actions" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" /> 
-      <img width="30px" alt="Cloudflare" title="Cloudflare" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original-wordmark.svg" />
-      <img width="30px" alt="nginx" title="nginx" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
+      <img width="30px" alt="aws" title="aws" src="https://skillicons.dev/icons?i=aws" />
+      <img width="30px" alt="heroku" title="heroku" src="https://skillicons.dev/icons?i=heroku" />
+      <img width="30px" alt="git" title="git" src="https://skillicons.dev/icons?i=git" />
+      <img width="30px" alt="docker" title="docker" src="https://skillicons.dev/icons?i=docker" />
+      <img width="30px" alt="github actions" title="github  actions" src="https://skillicons.dev/icons?i=githubactions" /> 
+      <img width="30px" alt="Cloudflare" title="Cloudflare" src="https://skillicons.dev/icons?i=cloudflare" />
+      <img width="30px" alt="nginx" title="nginx" src="https://skillicons.dev/icons?i=nginx" />
     </kbd>
     <kbd>
       <kbd>Tools</kbd>
       <br>
       <br>
-      <img width="30px" alt="vscode" title="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-      <img width="30px" alt="vim" title="vim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-      <img width="30px" alt="neo-vim" title="neo-vim" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
-      <img width="30px" alt="bash" title="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-      <img width="30px" alt="ubuntu" title="ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" />
-      <img width="30px" alt="postman" title="postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-  </kbd>
-</p>
+      <img width="30px" alt="vscode" title="vscode" src="https://skillicons.dev/icons?i=vscode" />
+      <img width="30px" alt="vim" title="vim" src="https://skillicons.dev/icons?i=vim" />
+      <img width="30px" alt="neo-vim" title="neo-vim" src="https://skillicons.dev/icons?i=neovim" />
+      <img width="30px" alt="postman" title="postman" src="https://skillicons.dev/icons?i=npm" />
+      <img width="30px" alt="bash" title="bash" src="https://skillicons.dev/icons?i=bash" />
+      <img width="30px" alt="ubuntu" title="ubuntu" src="https://skillicons.dev/icons?i=ubuntu" />
+      <img width="30px" alt="postman" title="postman" src="https://skillicons.dev/icons?i=postman" />
+    </kbd>
+  </p>
+</div>
 <!-- 
 ## 💻 Front End:
 
