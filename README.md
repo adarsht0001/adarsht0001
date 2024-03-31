@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://telegram.me/Someonewithoutabrain">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://twitter.com/AdarshT78011776">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -23,15 +23,13 @@
 </kbd>
 </p>
 
-<hr />
-  
-### 🧐 More About Me:
+## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
--   🌱 &nbsp; I’m currently learning Typescript;
--   👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/adarsht0001?tab=repositories)
--   💬 &nbsp; Ask me about **MONGODB,EXPRESS,REACT,NODEJS**
--   📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/adarsh-t-629bba255/)
--   👯 I’m looking to collaborate on **REACT,NODEJS,JAVASCRIPT**
+- 🌱 &nbsp; I’m currently learning Typescript;
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/adarsht0001?tab=repositories)
+- 💬 &nbsp; Ask me about **MONGODB,EXPRESS,REACT,NODEJS**
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/adarsh-t-629bba255/)
+- 👯 I’m looking to collaborate on **REACT,NODEJS,JAVASCRIPT**
 
 <br>
 
