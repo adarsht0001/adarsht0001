@@ -3,6 +3,11 @@
 <img src="https://raw.githubusercontent.com/adarsht0001/adarsht0001/main/images/wave.gif" width="30px" height="30px" /> 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Adarsh
 </h1>
 
+<!-- Typing Messages -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&center=true&width=450&lines=Hey I'm Adarsh;Welcome to my profile;" alt="Typing SVG" />
+</p>
+
 <!-- Profile-Views -->
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=adarsht0001&style=for-the-badge&label=Visitors" alt="adarsht0001"/>
@@ -112,7 +117,7 @@
       <img width="30px" alt="vscode" title="vscode" src="https://skillicons.dev/icons?i=vscode" />
       <img width="30px" alt="vim" title="vim" src="https://skillicons.dev/icons?i=vim" />
       <img width="30px" alt="neo-vim" title="neo-vim" src="https://skillicons.dev/icons?i=neovim" />
-      <img width="30px" alt="postman" title="postman" src="https://skillicons.dev/icons?i=npm" />
+      <img width="30px" alt="npm" title="npm" src="https://skillicons.dev/icons?i=npm" />
       <img width="30px" alt="bash" title="bash" src="https://skillicons.dev/icons?i=bash" />
       <img width="30px" alt="ubuntu" title="ubuntu" src="https://skillicons.dev/icons?i=ubuntu" />
       <img width="30px" alt="postman" title="postman" src="https://skillicons.dev/icons?i=postman" />
@@ -122,13 +127,16 @@
 
 <br/>
 
-<div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=adarsht0001&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="margin-right: 10px;">
+<!-- Github stats -->
+<div style="display: flex; justify-content: center; flex-wrap: wrap; align-items:center">
+  <img src="https://read-me-stats-seven.vercel.app/api?username=adarsht0001&theme=dark&hide_border=false&include_all_commits=false&count_private=true" style="margin-right: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsht0001&theme=dark&hide_border=false" style="margin-right: 10px;">
+  <img src="https://read-me-stats-seven.vercel.app/api/top-langs/?username=adarsht0001&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=css,html,scss">
 </div>
 
+<!-- footer -->
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/adarsht0001/adarsht0001/c6a7c4b26636c2ae0907f4df6b19688defd6839b/images/Bottom.svg" alt="Bottom" />
+  <img src="https://raw.githubusercontent.com/adarsht0001/adarsht0001/c6a7c4b26636c2ae0907f4df6b19688defd6839b/images/Bottom.svg" alt="Bottom" />
 </p>
