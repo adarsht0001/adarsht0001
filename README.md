@@ -119,41 +119,16 @@
     </kbd>
   </p>
 </div>
-<!-- 
-## 💻 Front End:
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,materialui,redux" />
-  </a>
-</p>
-
-## 💻 Back End And Data Base:
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,ts,nextjs,mongodb,dynamodb,postgres,firebase,redis" />
-  </a>
-</p>
-
-## 💻 Deployment and Tools:
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,vercel,githubactions,cloudflare,nginx,linux,bash,git,postman,vscode,figma" />
-  </a>
-</p>
 
 <br/>
-<br/> -->
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; align-items:center">
-    <img src="https://github-readme-stats.vercel.app/api?username=adarsht0001&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="margin-right: 10px;">
-    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsht0001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"> -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsht0001&theme=dark&hide_border=false" style="margin-right: 10px;">
+<div align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=adarsht0001&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="margin-right: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsht0001&theme=dark&hide_border=false" style="margin-right: 10px;">
 </div>
+
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/adarsht0001/adarsht0001/main/images/Bottom.svg?token=GHSAT0AAAAAACBKGUJ3NJFIQPJFN2443AQOZBYPJCA" alt="Bottom" />
+    <img src="https://raw.githubusercontent.com/adarsht0001/adarsht0001/c6a7c4b26636c2ae0907f4df6b19688defd6839b/images/Bottom.svg" alt="Bottom" />
 </p>
