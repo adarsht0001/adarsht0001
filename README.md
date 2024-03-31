@@ -1,6 +1,6 @@
 <!-- Title -->
 <h1 align="center" title="...and I'm happy to see you here :)"> 
-<img src="https://user-images.githubusercontent.com/111223900/212957409-9481f82e-c13e-44af-815c-38835db85311.gif" width="30px" height="30px" /> 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Adarsh
+<img src="https://raw.githubusercontent.com/adarsht0001/adarsht0001/main/images/wave.gif" width="30px" height="30px" /> 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Adarsh
 </h1>
 
 <!-- Profile-Views -->
@@ -23,7 +23,7 @@
 </kbd>
 </p>
 
-## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
+## <img src = "https://raw.githubusercontent.com/adarsht0001/adarsht0001/main/images/user.gif" width = 6.5%> About me
 
 - 🌱 &nbsp; I’m currently learning Typescript;
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/adarsht0001?tab=repositories)
