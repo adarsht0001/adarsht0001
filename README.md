@@ -55,7 +55,7 @@
 
 
 <!--- Tools --->
-## <img src = "https://raw.githubusercontent.com/adarsht0001/adarsht0001/main/images/tools.webp" width = 6.5%> Tools
+## <img src = "https://raw.githubusercontent.com/adarsht0001/adarsht0001/main/images/tools.gif" width = 6.5%> Tools
 
 <div>
   <p style="display: inline-block;" align="center">
@@ -136,7 +136,7 @@
   <img src="https://read-me-stats-seven.vercel.app/api/top-langs/?username=adarsht0001&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=css,html,scss">
 </div>
 
-<hr/>
+<br/>
 <!-- footer -->
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
