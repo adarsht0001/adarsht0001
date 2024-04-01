@@ -55,7 +55,7 @@
 
 
 <!--- Tools --->
-## <img src = "https://raw.githubusercontent.com/adarsht0001/adarsht0001/main/images/tools.gif" width = 6.5%> Tools
+## <img src = "https://raw.githubusercontent.com/adarsht0001/adarsht0001/main/images/tools.webp" width = 6.5%> Tools
 
 <div>
   <p style="display: inline-block;" align="center">
@@ -128,12 +128,15 @@
 <br/>
 
 <!-- Github stats -->
+## <img src = "https://raw.githubusercontent.com/adarsht0001/adarsht0001/main/images/stats.gif" width = 6.5%> Github Stats
+
 <div style="display: flex; justify-content: center; flex-wrap: wrap; align-items:center">
-  <img src="https://read-me-stats-seven.vercel.app/api?username=adarsht0001&theme=dark&hide_border=false&include_all_commits=false&count_private=true" style="margin-right: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsht0001&theme=dark&hide_border=false" style="margin-right: 10px;">
+  <img src="https://read-me-stats-seven.vercel.app/api?username=adarsht0001&theme=dark&hide_border=false&include_all_commits=false&count_private=true" >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsht0001&theme=dark&hide_border=false">
   <img src="https://read-me-stats-seven.vercel.app/api/top-langs/?username=adarsht0001&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=css,html,scss">
 </div>
 
+<hr/>
 <!-- footer -->
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
