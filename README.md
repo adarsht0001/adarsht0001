@@ -74,6 +74,7 @@
       <img width="30px" alt="Type Script" title="Type Script" src="https://skillicons.dev/icons?i=ts" /> 
       <img width="30px" alt="node js" title="node js" src="https://skillicons.dev/icons?i=nodejs" />
       <img width="30px" alt="express js" title="express js" src="https://skillicons.dev/icons?i=express" />
+         <img width="30px" alt="elysia js" title="elysia js" src="https://skillicons.dev/icons?i=elysia" />
       <img width="30px" alt="Go" title="Go" src="https://skillicons.dev/icons?i=go" />
     </kbd>
     <kbd>
