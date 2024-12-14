@@ -130,7 +130,7 @@
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; align-items:center">
   <img src="https://read-me-stats-seven.vercel.app/api?username=adarsht0001&theme=dark&hide_border=false&include_all_commits=false&count_private=true" >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsht0001&theme=dark&hide_border=false">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adarsht0001&theme=highcontrast&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D">
   <img src="https://read-me-stats-seven.vercel.app/api/top-langs/?username=adarsht0001&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </div>
 
