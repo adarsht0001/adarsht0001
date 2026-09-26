@@ -3,9 +3,10 @@
 <img src="https://raw.githubusercontent.com/adarsht0001/adarsht0001/main/images/wave.gif" width="30px" height="30px" /> 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Adarsh
 </h1>
 
-<!-- Typing Messages -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&center=true&width=450&lines=Hey I'm Adarsh;Welcome to my profile;" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=300&center=true&width=450&lines=Hey+I'm+Adarsh;Welcome+to+my+profile" alt="Typing SVG">
+  </a>
 </p>
 
 <!-- Profile-Views -->
