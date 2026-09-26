@@ -40,7 +40,6 @@
  * @param {string} education - BSc CompScience, Kannur University.
  * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
  * @param {string} strength - Resolute.
- * @param {string} weakness - Shyness.
  * @param {Date} birthday - 25th of August 2001.
  * @throws {Punch} To any and all bugs.
  * @returns {Object} Adarsh.
